@@ -62,7 +62,7 @@ body {
   cursor: pointer;
 }
 
-.stopwatch .stopwatch-btn-gre:hover {
+.stopwatch .stopwatch-btn:hover {
   background: #508771;
   border: 2px solid #508771;
   color: #fff;
